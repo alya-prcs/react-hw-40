@@ -1,0 +1,2 @@
+.card { padding: 24px; background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(31,41,51,0.08); }
+.error { color: var(--danger); }

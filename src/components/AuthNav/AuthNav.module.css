@@ -1,0 +1,4 @@
+.wrap { display: flex; gap: 16px; }
+.link { padding: 6px 10px; color: var(--text); text-decoration: none; border-radius: 6px; }
+.link:hover { background: var(--bg); }
+.active { color: var(--accent); font-weight: 600; }
